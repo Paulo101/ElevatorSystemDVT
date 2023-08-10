@@ -1,0 +1,12 @@
+C:\Users\paulo\Desktop\ElevatorChallengeDVT\ElevatorLibrary\bin\Debug\net6.0\ElevatorLibrary.deps.json
+C:\Users\paulo\Desktop\ElevatorChallengeDVT\ElevatorLibrary\bin\Debug\net6.0\ElevatorLibrary.dll
+C:\Users\paulo\Desktop\ElevatorChallengeDVT\ElevatorLibrary\bin\Debug\net6.0\ElevatorLibrary.pdb
+C:\Users\paulo\Desktop\ElevatorChallengeDVT\ElevatorLibrary\obj\Debug\net6.0\ElevatorLibrary.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\ElevatorChallengeDVT\ElevatorLibrary\obj\Debug\net6.0\ElevatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\ElevatorChallengeDVT\ElevatorLibrary\obj\Debug\net6.0\ElevatorLibrary.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\ElevatorChallengeDVT\ElevatorLibrary\obj\Debug\net6.0\ElevatorLibrary.AssemblyInfo.cs
+C:\Users\paulo\Desktop\ElevatorChallengeDVT\ElevatorLibrary\obj\Debug\net6.0\ElevatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\ElevatorChallengeDVT\ElevatorLibrary\obj\Debug\net6.0\ElevatorLibrary.dll
+C:\Users\paulo\Desktop\ElevatorChallengeDVT\ElevatorLibrary\obj\Debug\net6.0\refint\ElevatorLibrary.dll
+C:\Users\paulo\Desktop\ElevatorChallengeDVT\ElevatorLibrary\obj\Debug\net6.0\ElevatorLibrary.pdb
+C:\Users\paulo\Desktop\ElevatorChallengeDVT\ElevatorLibrary\obj\Debug\net6.0\ref\ElevatorLibrary.dll
